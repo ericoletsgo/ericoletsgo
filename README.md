@@ -3,11 +3,7 @@
 
 - 🌱 I’m currently learning **devops, php, jenkins, ansible, cloud**
 
-- 🤝 I’m looking for help with **learning**
-
-- 📫 How to reach me **eric.nie@uwaterloo.ca**
-
-- ⚡ Fun fact **working on getting better at competitive programming**
+- 📫 Reach me at **eric.nie@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
