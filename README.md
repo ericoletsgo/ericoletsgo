@@ -2,7 +2,7 @@
 <h3 align="center">Electrical Engineering Student @Uwaterloo from Ottawa, ONT</h3>
 
 - 🌱 I’m currently learning **devops, php, jenkins, ansible, cloud**
-
+- Inc Software Engineer @ Bank of Canada
 - 📫 Reach me at **eric.nie@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
