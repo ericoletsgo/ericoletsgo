@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">Web Dev, EE Student based in Ottawa & Waterloo, ONT (UWaterloo)</h3>
+<h3 align="center">Electrical Engineering Student @Uwaterloo from Ottawa, ONT</h3>
 
 - 🌱 I’m currently learning **devops, php, jenkins, ansible, cloud**
 
