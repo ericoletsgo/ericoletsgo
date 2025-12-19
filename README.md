@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">Electrical Engineering Student @Uwaterloo from Ottawa, ONT</h3>
+<h1 align="center">Hi, I'm Eric</h1>
+<h3 align="center">Electrical & Computer Eng Student @Uwaterloo</h3>
 
-- Software Engineer intern @ Bank of Canada
-- 📫 Reach me at **eric.nie@uwaterloo.ca**
+- Prev @ Bank of Canada
+- **eric.nie@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
