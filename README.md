@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eric</h1>
-<h3 align="center">Electrical & Computer Eng Student @Uwaterloo</h3>
+<h3 align="center">ECE @Uwaterloo</h3>
 
 - Prev @ Bank of Canada
 - **eric.nie@uwaterloo.ca**
