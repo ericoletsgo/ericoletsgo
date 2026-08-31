@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Eric</h1>
 <h3 align="center">ECE @UWaterloo</h3>
 
-- Maple Armor
 - **eric.nie@uwaterloo.ca**
 
 <h3 align="left">Connect with me:</h3>
